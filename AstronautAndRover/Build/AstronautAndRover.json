@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "techChallenge",
+"dataUrl": "AstronautAndRover.data.unityweb",
+"asmCodeUrl": "AstronautAndRover.asm.code.unityweb",
+"asmMemoryUrl": "AstronautAndRover.asm.memory.unityweb",
+"asmFrameworkUrl": "AstronautAndRover.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
